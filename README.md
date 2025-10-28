@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P4RASTOO
 - 👀 I’m interested in Bitcoin Development.
-- 🌱 I’m currently learning FinTech.
+- 🌱 I’m currently learning SmartContracts.
 
 <!---
 P4RASTOO/P4RASTOO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
